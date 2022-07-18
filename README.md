@@ -34,6 +34,9 @@
 <!-- [![Spotify](https://novatorem-nuxpd1k1x-chiragksharma.vercel.app/api/spotify)](https://open.spotify.com/user/313h53jfsifbnilpgavyjmpdso2u) -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&redirect=true)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/697757845063729194)](https://discord.com/users/697757845063729194)
+
+
 ---
 ## Languages and Tools:
 
