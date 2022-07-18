@@ -32,7 +32,7 @@
 ### Spotify Playing 🎧
 
 <!-- [![Spotify](https://novatorem-nuxpd1k1x-chiragksharma.vercel.app/api/spotify)](https://open.spotify.com/user/313h53jfsifbnilpgavyjmpdso2u) -->
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31umplvfxtpdvktwncowyg725m6q)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&redirect=true)
 
 ---
 ## Languages and Tools:
