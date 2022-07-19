@@ -24,10 +24,9 @@ I'm a self-taught student from India, who's currently learning backend web devel
 
 Learning/know a bit of Elixir, Discord JS, and React as well :)
 
-- 🛠 Backend:
-  - test
-  - tets
-  - tetst
-  - ettsts
+- 🛠 Tech(s) Loved:
+  - Docker
+  - Kubernetes
+  - Cloud Hosting
  
 [![Hits](https://hits.link/hits?url=https://github.com/PHPxCODER&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
