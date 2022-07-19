@@ -8,6 +8,10 @@ I'm a self-taught software engineer from the United States, who's currently purs
   <img src="https://lanyard-profile-readme.vercel.app/api/697757845063729194?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" align="right" />
+</a>
+
 - 🖥️ Frontend:
   - React/Next.js
   - TailwindCSS
