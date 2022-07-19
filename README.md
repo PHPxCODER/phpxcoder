@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/PHPxCODER/phpxcoder/1492ee49d1a1b21b1e27096d4c6c891451c862a7/Assets/php2.svg" alt=":wave:" />
 
-I'm a self-taught student from India, who's currently learning backend web development to create stunning user experiences on the front-end, and scalable and secure infrastructure.
+I'm a Self-Taught Student from India, Who's Currently Learning Backend Web Development To Create Stunning User Experiences on the Front-End, Scalable and Secure Infrastructure.
 
 ---
 
@@ -22,7 +22,7 @@ I'm a self-taught student from India, who's currently learning backend web devel
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" align=right />
 </a>
 
-Learning/know a bit of Elixir, Discord JS, and React as well :)
+Learning/know a bit of Elixir, Discord JS, and React as Well :)
 
 - 🛠 Tech(s) Loved:
   - Docker
