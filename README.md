@@ -23,8 +23,10 @@ I'm a self-taught student from India, who's currently learning backend web devel
 </a>
 
 Learning/know a bit of Python, Go, and Swift as well :)
-test
-test
-test
-test
+
+- 🛠 Backend:
+  - test
+  - tets
+  - tetst
+  - ettsts
 [![Hits](https://hits.link/hits?url=https://github.com/PHPxCODER&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
