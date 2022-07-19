@@ -22,7 +22,7 @@ I'm a self-taught student from India, who's currently learning backend web devel
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" align=right />
 </a>
 
-Learning/know a bit of Python, Go, and Swift as well :)
+Learning/know a bit of Elixir, Discord JS, and React as well :)
 
 - 🛠 Backend:
   - test
