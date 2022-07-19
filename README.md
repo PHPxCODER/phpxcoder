@@ -11,7 +11,7 @@ I'm a self-taught student from India, who's currently learning backend web devel
 - 🖥️ Frontend:
   - React/Next.js
   - TailwindCSS
-  - In the past: HTML/CSS/JS
+  - In the past: PHP/CSS/JS
 
 - 🛠 Backend:
   - Node/Fastify
