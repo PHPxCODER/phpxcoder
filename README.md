@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PHPxCODER/phpxcoder/a579bc158ff9793c2a5119e9c336abb80241433d/Assets/php2.svg" alt=":wave:" />
+<img src="https://raw.githubusercontent.com/PHPxCODER/phpxcoder/1492ee49d1a1b21b1e27096d4c6c891451c862a7/Assets/php2.svg" alt=":wave:" />
 
 I'm a self-taught software engineer from the United States, who's currently pursuing full-stack web development to create stunning user experiences on the front-end, and scalable and secure infrastructure on the backend.
 
