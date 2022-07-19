@@ -18,7 +18,7 @@ I'm a self-taught student from India, who's currently learning backend web devel
   - Node/Fastify
   - Redis
   - Docker
-Learning/know a bit of Python, Go, and Swift as well :)
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" align=right />
 </a>
+Learning/know a bit of Python, Go, and Swift as well :)
