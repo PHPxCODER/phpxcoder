@@ -10,7 +10,7 @@ I'm a Self-Taught Student from India, Who's Currently Learning Backend Web Devel
 
 - 🖥️ Frontend:
   - React/Next.js
-  - TailwindCSS
+  - Vue/Nuxt.js
   - In the past: PHP/CSS/JS
 
 - 🛠 Backend:
