@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PHPxCODER/phpxcoder/1492ee49d1a1b21b1e27096d4c6c891451c862a7/Assets/php2.svg" alt=":wave:" />
+<img src="Assets/php2.svg" alt=":wave:" />
 
 I'm a Self-Taught Student from India, Who's Currently Learning Backend Web Development To Create Stunning User Experiences on the Front-End, Scalable and Secure Infrastructure.
 
