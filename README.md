@@ -18,8 +18,8 @@ I'm a Self-Taught Student from India, Who's Currently Learning Backend Web Devel
   - Redis
   - Docker
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31umplvfxtpdvktwncowyg725m6q&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" align=right />
+<a href="https://spotifycard.codevizag.com/api/view?uid=31umplvfxtpdvktwncowyg725m6q&redirect=true">
+  <img src="https://spotifycard.codevizag.com/api/view?uid=31umplvfxtpdvktwncowyg725m6q&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" align=right />
 </a>
 
 Learning/know a bit of Elixir, Discord JS, and React as Well :)
