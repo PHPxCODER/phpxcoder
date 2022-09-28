@@ -9,12 +9,12 @@ I'm a Self-Taught Student from India, Who's Currently Learning Backend Web Devel
 </a>
 
 - 🖥️ Frontend:
-  - React/Next.js
-  - Vue/Nuxt.js
+  - React/ Next.js
+  - Vue/ Nuxt.js
   - In the past: PHP/CSS/JS
 
 - 🛠 Backend:
-  - Node/Fastify
+  - Node/Vercel
   - Redis
   - Docker
 
