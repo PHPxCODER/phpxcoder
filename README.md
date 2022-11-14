@@ -5,7 +5,7 @@ I'm a Self-Taught Student from India, Who's Currently Learning Backend Web Devel
 ---
 
 <a href="https://discord.com/users/697757845063729194">
-  <img src="https://gitcard.codevizag.com/api/697757845063729194?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align=right />
+  <img src="https://lanyard.cnrad.dev/api/697757845063729194?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align=right />
 </a>
 
 - 🖥️ Frontend:
