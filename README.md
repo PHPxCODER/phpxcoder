@@ -29,4 +29,4 @@ Learning/know a bit of Elixir, Discord JS, and React as Well :)
   - Kubernetes
   - Cloud Hosting
  
-[![Hits](https://hits.link/hits?url=https://github.com/PHPxCODER&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
+[![Hits](https://komarev.com/ghpvc/?username=phpxcoder&style=flat-square)](https://hits.link)
